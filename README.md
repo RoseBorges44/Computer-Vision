@@ -6,13 +6,14 @@
 
 
 # Computer Vision
-Repositório de Visão Computacional: 
-- Algoritmos e modelos avançados para processamento de imagem, detecção, segmentação e análise de objetos. Aprenda e aplique técnicas essenciais nessa área em constante evolução. 
-- Descubra o poder da Visão Computacional para resolver problemas do mundo real.
+Repositório de Visão Computacional: </p>
+- Algoritmos e modelos avançados para processamento de imagem, detecção, segmentação e análise de objetos. Aprenda e aplique técnicas essenciais nessa área em constante evolução. </p>
+- Descubra o poder da Visão Computacional para resolver problemas do mundo real.</p>
   
 #VisãoComputacional    #ProcessamentoDeImagem
 
 
 ## Meus Projetos
 - **Artigo sobre Keying:** https://www.linkedin.com/pulse/aplicando-t%25C3%25A9cnicas-de-keying-com-opencv-cria%25C3%25A7%25C3%25A3o-cen%25C3%25A1rios-borges/</p>
-- **Facial Landmarks:** https://github.com/RoseBorges44/Facial_Landmarksl_em_Video_com_Opencv_e_Dlib
+- **Facial Landmarks:** https://github.com/RoseBorges44/Facial_Landmarksl_em_Video_com_Opencv_e_Dlib</p>
+- **Detector de Fadiga (Drowsiness Detection):** https://github.com/RoseBorges44/Detector_de_Fadiga--drowsiness_detection</p>
