@@ -18,3 +18,7 @@ Repositório de Visão Computacional: </p>
 - **Facial Landmarks:** https://github.com/RoseBorges44/Facial_Landmarksl_em_Video_com_Opencv_e_Dlib</p>
 - **Detector de Fadiga (Drowsiness Detection):** https://github.com/RoseBorges44/Detector_de_Fadiga--drowsiness_detection</p>
 - **Redução de Dimensionalidade:** https://github.com/RoseBorges44/Computer-Vision/blob/main/I2A2_Redução_de_Dimensionalidade.ipynb</p>
+- **Detecção de Acidentes com YOLOv8 - UFSC 2023:** https://www.linkedin.com/feed/update/urn:li:activity:7136354076857909248/
+- **Artigo sobre Processamneto de Imagens Médicas - UNIFESP 2023:** 
+
+
